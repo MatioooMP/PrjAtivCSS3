@@ -1,0 +1,14 @@
+body{
+    background-image: url("./../images/torta_limao_backS.png"), url("./../images/torta_limao_backI.png");
+    background-repeat: repeat-x, repeat-x;
+    background-color: #FFFFC4;
+    background-position: top, bottom;
+    
+}
+main{
+    box-sizing: border-box;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(122, 214, 122);
+   
+}
